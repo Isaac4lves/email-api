@@ -1,4 +1,4 @@
-# NEWSLETTER API
+# EMAIL API
 
 ## SOBRE A API
 Foi feita para estudo, usando Next.js, TypeScript e Nodemailer. Pode ser facilmente incoporada no seu projeto com Next, **feita para enviar E-mails usando o serviço SMTP do Gmail**. 
